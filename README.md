@@ -1,7 +1,6 @@
 <h1 align="center">Привет 👋, я Павел</h1>
 <h3 align="center">Front-end разработчик | JavaScript | React | HTML & CSS</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
